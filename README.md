@@ -24,6 +24,7 @@
 * [Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE)
 * [Business logic in Ruby by Andrzej Krzywda](https://www.youtube.com/watch?v=bwUueshN6Rw)
 * [Services, operations, transactions, monads, and other fancy words by Bartosz Bonisławski](https://www.youtube.com/watch?v=NeHRtqqeiyc)
+* [Aloha Ruby Conf 2012 Refactoring from Good to Great by Ben Orenstein](https://www.youtube.com/watch?v=DC-pQPq0acs)
 
 ### Architecture
 * [Modularity – the final frontier by Łukasz Szydło](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=8s)
