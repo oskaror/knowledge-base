@@ -2,8 +2,11 @@
 ## News 
 * [Ruby on Rails link slack group](rubyonrails-link.slack.com)
 * [DEV Community](https://dev.to/t/ruby)
-* [Today i learned by Hashrocket](https://til.hashrocket.com/ruby)
 * [Ruby Conferences list](https://rubyconferences.org)
+
+## Blogs
+* [thoughtbot blog](https://thoughtbot.com/blog)
+* [Today i learned by Hashrocket](https://til.hashrocket.com/ruby)
 
 ## Books
 * [Robert C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
