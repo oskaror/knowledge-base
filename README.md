@@ -1,10 +1,4 @@
 # Knowledge Base
-## Daily ruby gems
-* [RSpec](https://github.com/rspec/rspec) - testing tool for Ruby, created for behavior-driven development (BDD).
-* [Rubocop](https://github.com/rubocop-hq/rubocop) - static code analyzer (a.k.a. linter ) and code formatter
-* [bullet](https://github.com/flyerhzm/bullet) - increas application's performance by reducing the number of queries it makes
-* [Fasterer](https://github.com/DamirSvrtan/fasterer) - suggest some speed improvements
-
 ## News 
 * [Ruby on Rails link slack group](rubyonrails-link.slack.com)
 * [DEV Community](https://dev.to/t/ruby)
@@ -42,3 +36,11 @@
 
 ### Devops
 * [AWS in plain english ](https://expeditedsecurity.com/aws-in-plain-english/)
+
+### Favourite gems
+* [RSpec](https://github.com/rspec/rspec) - Testing tool for Ruby, created for behavior-driven development (BDD).
+* [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
+* [Rubocop](https://github.com/rubocop-hq/rubocop) - Static code analyzer (a.k.a. linter ) and code formatter
+* [bullet](https://github.com/flyerhzm/bullet) - Increase application's performance by reducing the number of queries it makes
+* [Fasterer](https://github.com/DamirSvrtan/fasterer) - Suggest some speed improvements
+* [JWT](https://github.com/jwt/ruby-jwt) - A ruby implementation of the JSON Web Token (JWT) standard.
