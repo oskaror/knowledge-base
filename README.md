@@ -1,5 +1,5 @@
 # Knowledge Base
-## News 
+## :newspaper: News 
 * [Ruby on Rails link slack group](rubyonrails-link.slack.com)
 * [DEV Community](https://dev.to/t/ruby)
 * [Ruby Conferences list](https://rubyconferences.org)
@@ -8,13 +8,13 @@
 * [thoughtbot blog](https://thoughtbot.com/blog)
 * [Today i learned by Hashrocket](https://til.hashrocket.com/ruby)
 
-## Books
+## :books: Books
 * [Robert C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Robert C. Martin - Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [Andrzej Krzywda - Fearless Refactoring](https://rails-refactoring.com)
 * [Sandi Metz - Practical Object-Oriented Design](https://www.amazon.com/gp/product/B07F88LY9M)
 
-## Talks
+## :speaking_head: Talks
 ### OOP
 * [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 * [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU) 
@@ -33,14 +33,14 @@
 ### Others
 * [Tekin Süleyman - A Branch in Time](https://vimeo.com/280579162)
 
-## Resources
+## :file_folder: Resources
 ### Ruby
 * [Working with time zones in Rails](https://www.varvet.com/blog/working-with-time-zones-in-ruby-on-rails/)
 
 ### Devops
 * [AWS in plain english ](https://expeditedsecurity.com/aws-in-plain-english/)
 
-### Favourite gems
+## :gem: Favourite gems
 * [RSpec](https://github.com/rspec/rspec) - Testing tool for Ruby, created for behavior-driven development (BDD).
 * [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
 * [Rubocop](https://github.com/rubocop-hq/rubocop) - Static code analyzer (a.k.a. linter ) and code formatter
