@@ -62,9 +62,24 @@
 * [AWS in plain english ](https://expeditedsecurity.com/aws-in-plain-english/)
 
 ## :gem: Favourite gems
+### Frameworks
+* [Rails](https://github.com/rails/rails)
+* [Sinatra](https://github.com/sinatra/sinatra)
+
+### Testing
 * [RSpec](https://github.com/rspec/rspec) - Testing tool for Ruby, created for behavior-driven development (BDD).
-* [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
-* [Rubocop](https://github.com/rubocop-hq/rubocop) - Static code analyzer (a.k.a. linter ) and code formatter
-* [bullet](https://github.com/flyerhzm/bullet) - Increase application's performance by reducing the number of queries it makes
+* [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework
+* [Webmock](https://github.com/bblimke/webmock) - Stubbing and setting expectations on HTTP requests in Ruby
+
+### Code Analysis
+* [Rubocop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
+* [bullet](https://github.com/flyerhzm/bullet) - Help to find N+1 queries and unused eager loading
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) - Suggest some speed improvements
+
+### Authentication and authorization
+* [bcrypt](https://github.com/codahale/bcrypt-ruby) - A ruby binding for the OpenBSD bcrypt() password hashing algorithm
 * [JWT](https://github.com/jwt/ruby-jwt) - A ruby implementation of the JSON Web Token (JWT) standard.
+* [Pundit](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes.
+
+### Others
+* [AnyCable](https://github.com/anycable/anycable) – Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
