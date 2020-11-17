@@ -47,10 +47,18 @@
 * [Tekin Süleyman - A Branch in Time](https://vimeo.com/280579162)
 
 ## :file_folder: Resources
-### Ruby
-* [Working with time zones in Rails](https://www.varvet.com/blog/working-with-time-zones-in-ruby-on-rails/)
+### Style Guides
+* [Rubocop Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
+* [Rubocop Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
+* [Thoughtbot Style Guides](https://github.com/thoughtbot/guides)
+* [GitHub Ruby Coding Style](https://github.com/github/rubocop-github/blob/master/STYLEGUIDE.md)
 
-### Devops
+### Lists
+* [Awesome ruby](https://github.com/markets/awesome-ruby) - A collection of Ruby libraries, tools, frameworks and software
+* [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
+
+### Others
+* [Working with time zones in Rails](https://www.varvet.com/blog/working-with-time-zones-in-ruby-on-rails/)
 * [AWS in plain english ](https://expeditedsecurity.com/aws-in-plain-english/)
 
 ## :gem: Favourite gems
