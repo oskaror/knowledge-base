@@ -1,12 +1,25 @@
 # Knowledge Base
 ## :newspaper: News 
-* [Ruby on Rails link slack group](rubyonrails-link.slack.com)
-* [DEV Community](https://dev.to/t/ruby)
-* [Ruby Conferences list](https://rubyconferences.org)
 
-## Blogs
-* [thoughtbot blog](https://thoughtbot.com/blog)
-* [Today i learned by Hashrocket](https://til.hashrocket.com/ruby)
+### Blogs
+* [Thoughtbot blog](https://thoughtbot.com/blog) - Written by [thoughtbot](https://thoughtbot.com), a consulting firm that makes web and mobile apps for early stage startups.
+* [Today i learned by Hashrocket](https://til.hashrocket.com/ruby) - [Hashrocket](https://hashrocket.com) is a Ruby on Rails, Elixir, React and mobile development consultancy.
+
+### Newsletters
+* [Ruby weekly](https://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
+
+### Communities
+* [Ruby on Rails Link slack group](http://rubyonrails-link.slack.com) - community of Ruby on Rails developers from all over the world.
+* [Ruby on Rails Reddit](https://www.reddit.com/r/rails/) - A subreddit for discussion and news about Ruby on Rails development
+* [DEV Community](https://dev.to/t/ruby) - Community of software developers who write articles, take part in discussions, and build their professional profiles. 
+
+### Conferences
+* [Ruby Conferences list](https://rubyconferences.org)
+* [RailsConf](https://railsconf.com)
+* [RubyConf](http://rubyconf.org)
+* [RubyDay](http://rubyday.it)
+* [wroc_love.rb](https://wrocloverb.com)
+* [KRUG](https://krug.org.pl)
 
 ## :books: Books
 * [Robert C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
