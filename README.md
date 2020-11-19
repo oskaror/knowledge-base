@@ -26,6 +26,7 @@
 * [Robert C. Martin - Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [Andrzej Krzywda - Fearless Refactoring](https://rails-refactoring.com)
 * [Sandi Metz - Practical Object-Oriented Design](https://www.amazon.com/gp/product/B07F88LY9M)
+* [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 
 ## :speaking_head: Talks
 ### Object oriented programming
