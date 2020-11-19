@@ -24,9 +24,9 @@
 ## :books: Books
 * [Robert C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Robert C. Martin - Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
-* [Andrzej Krzywda - Fearless Refactoring](https://rails-refactoring.com)
-* [Sandi Metz - Practical Object-Oriented Design](https://www.amazon.com/gp/product/B07F88LY9M)
 * [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+* [Sandi Metz - Practical Object-Oriented Design](https://www.amazon.com/gp/product/B07F88LY9M)
+* [Andrzej Krzywda - Fearless Refactoring](https://rails-refactoring.com)
 
 ## :speaking_head: Talks
 ### Object oriented programming
