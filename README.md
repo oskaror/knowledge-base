@@ -33,9 +33,11 @@
 * [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 * [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU) 
 * [Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE)
+* [RailsConf 2016 - Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
 * [Business logic in Ruby by Andrzej Krzywda](https://www.youtube.com/watch?v=bwUueshN6Rw)
 * [Aloha Ruby Conf 2012 Refactoring from Good to Great by Ben Orenstein](https://www.youtube.com/watch?v=DC-pQPq0acs)
 * [Services, operations, transactions, monads, and other fancy words by Bartosz Bonisławski](https://www.youtube.com/watch?v=NeHRtqqeiyc)
+
 
 ### Architecture
 * [Modularity – the final frontier by Łukasz Szydło](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=8s)
