@@ -1,5 +1,9 @@
 # Knowledge Base
+
+<span align="center">
+
 ## :newspaper: News 
+</span>
 
 ### Blogs
 * [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog
@@ -30,14 +34,22 @@
 * [Hix on Rails](https://hixonrails.com/ruby-on-rails-tutorials/)
 * [Ruby guides](https://www.rubyguides.com)
 
+<span align="center">
+  
 ## :books: Books
+</span>
+
 * [Robert C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Robert C. Martin - Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 * [Sandi Metz - Practical Object-Oriented Design](https://www.amazon.com/gp/product/B07F88LY9M)
 * [Andrzej Krzywda - Fearless Refactoring](https://rails-refactoring.com)
 
+<span align="center">
+  
 ## :speaking_head: Talks
+</span>
+
 ### Object oriented programming
 * [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 * [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU) 
@@ -46,7 +58,6 @@
 * [Business logic in Ruby by Andrzej Krzywda](https://www.youtube.com/watch?v=bwUueshN6Rw)
 * [Aloha Ruby Conf 2012 Refactoring from Good to Great by Ben Orenstein](https://www.youtube.com/watch?v=DC-pQPq0acs)
 * [Services, operations, transactions, monads, and other fancy words by Bartosz Bonisławski](https://www.youtube.com/watch?v=NeHRtqqeiyc)
-
 
 ### Architecture
 * [Modularity – the final frontier by Łukasz Szydło](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=8s)
@@ -58,7 +69,11 @@
 ### Others
 * [Tekin Süleyman - A Branch in Time](https://vimeo.com/280579162)
 
+<span align="center">
+  
 ## :file_folder: Resources
+</span>
+
 ### Style Guides
 * [Rubocop Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
 * [Rubocop Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
@@ -73,7 +88,11 @@
 * [Working with time zones in Rails](https://www.varvet.com/blog/working-with-time-zones-in-ruby-on-rails/)
 * [AWS in plain english ](https://expeditedsecurity.com/aws-in-plain-english/)
 
+<span align="center">
+  
 ## :gem: Favourite gems
+</span>
+
 ### Frameworks
 * [Rails](https://github.com/rails/rails)
 * [Sinatra](https://github.com/sinatra/sinatra)
