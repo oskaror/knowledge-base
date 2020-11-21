@@ -2,7 +2,10 @@
 ## :newspaper: News 
 
 ### Blogs
+* [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog
 * [Thoughtbot blog](https://thoughtbot.com/blog) - Written by [thoughtbot](https://thoughtbot.com), a consulting firm that makes web and mobile apps for early stage startups.
+* [Arkency blog](https://blog.arkency.com) - It's a ruby blog that has published articles from various authors since 2012. The content ranges from beginner to advanced.
+* [BigBinar blog](https://blog.bigbinary.com) - BigBinary is an agency blog that details major updates to Ruby, Rails, and several related topics.
 * [Today i learned by Hashrocket](https://til.hashrocket.com/ruby) - [Hashrocket](https://hashrocket.com) is a Ruby on Rails, Elixir, React and mobile development consultancy.
 
 ### Newsletters
