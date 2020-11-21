@@ -1,5 +1,5 @@
 # Knowledge Base
-## :newspaper: News 
+## :newsgpaper: News 
 
 ### Blogs
 * [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog
@@ -23,6 +23,12 @@
 * [RubyDay](http://rubyday.it)
 * [wroc_love.rb](https://wrocloverb.com)
 * [KRUG](https://krug.org.pl)
+
+### Screencasts
+* [GoRails](https://gorails.com/series)
+* [Ruby tapas](https://www.rubytapas.com)
+* [Hix on Rails](https://hixonrails.com/ruby-on-rails-tutorials/)
+* [Ruby guides](https://www.rubyguides.com)
 
 ## :books: Books
 * [Robert C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
