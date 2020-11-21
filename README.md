@@ -1,5 +1,5 @@
 # Knowledge Base
-## :newsgpaper: News 
+## :newspaper: News 
 
 ### Blogs
 * [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog
