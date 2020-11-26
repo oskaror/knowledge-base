@@ -68,6 +68,7 @@
 
 ### Others
 * [Tekin Süleyman - A Branch in Time](https://vimeo.com/280579162)
+* [RailsConf 2019 - Event Sourcing made Simple by Philippe Creux](https://www.youtube.com/watch?v=ulF6lEFvrKo)
 
 <span align="center">
   
