@@ -5,6 +5,10 @@
 ## :newspaper: News 
 </span>
 
+### Podcasts 
+* [EN] [Remote Ruby](https://remoteruby.transistor.fm) - Three Rubyists having conversations and interviewing others about Ruby and web development.
+* [PL] [Better Software Design](https://bettersoftwaredesign.pl) - Podcast about programming and application architecture 
+
 ### Blogs
 * [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog
 * [Thoughtbot blog](https://thoughtbot.com/blog) - Written by [thoughtbot](https://thoughtbot.com), a consulting firm that makes web and mobile apps for early stage startups.
