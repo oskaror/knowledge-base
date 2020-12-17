@@ -10,7 +10,7 @@
 * [PL] [Better Software Design](https://bettersoftwaredesign.pl) - Podcast about programming and application architecture 
 
 ### Blogs
-* [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog
+* [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog.
 * [Thoughtbot blog](https://thoughtbot.com/blog) - Written by [thoughtbot](https://thoughtbot.com), a consulting firm that makes web and mobile apps for early stage startups.
 * [Arkency blog](https://blog.arkency.com) - It's a ruby blog that has published articles from various authors since 2012. The content ranges from beginner to advanced.
 * [BigBinar blog](https://blog.bigbinary.com) - BigBinary is an agency blog that details major updates to Ruby, Rails, and several related topics.
@@ -21,9 +21,9 @@
 * [Code with Jason](https://www.codewithjason.co/) - Jason Swett is a developer, speaker, author and host of The Rails with Jason podcast.
 
 ### Communities
-* [Ruby on Rails Link slack group](http://rubyonrails-link.slack.com) - community of Ruby on Rails developers from all over the world.
-* [Ruby on Rails Reddit](https://www.reddit.com/r/rails/) - A subreddit for discussion and news about Ruby on Rails development
-* [DEV Community](https://dev.to/t/ruby) - Community of software developers who write articles, take part in discussions, and build their professional profiles. 
+* [Ruby on Rails Link slack group](http://rubyonrails-link.slack.com) - Community of Ruby on Rails developers from all over the world.
+* [Ruby on Rails Reddit](https://www.reddit.com/r/rails/) - A subreddit for discussion and news about Ruby on Rails development.
+* [DEV Community](https://dev.to/t/ruby) - Community of software developers who write articles, take part in discussions, and build their professional profiles.
 
 ### Conferences
 * [Ruby Conferences list](https://rubyconferences.org)
@@ -105,16 +105,16 @@
 
 ### Testing
 * [RSpec](https://github.com/rspec/rspec) - Testing tool for Ruby, created for behavior-driven development (BDD).
-* [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework
-* [Webmock](https://github.com/bblimke/webmock) - Stubbing and setting expectations on HTTP requests in Ruby
+* [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework.
+* [Webmock](https://github.com/bblimke/webmock) - Stubbing and setting expectations on HTTP requests in Ruby.
 
 ### Code Analysis
 * [Rubocop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-* [bullet](https://github.com/flyerhzm/bullet) - Help to find N+1 queries and unused eager loading
-* [Fasterer](https://github.com/DamirSvrtan/fasterer) - Suggest some speed improvements
+* [bullet](https://github.com/flyerhzm/bullet) - Help to find N+1 queries and unused eager loading.
+* [Fasterer](https://github.com/DamirSvrtan/fasterer) - Suggest some speed improvements.
 
 ### Authentication and authorization
-* [bcrypt](https://github.com/codahale/bcrypt-ruby) - A ruby binding for the OpenBSD bcrypt() password hashing algorithm
+* [bcrypt](https://github.com/codahale/bcrypt-ruby) - A ruby binding for the OpenBSD bcrypt() password hashing algorithm.
 * [JWT](https://github.com/jwt/ruby-jwt) - A ruby implementation of the JSON Web Token (JWT) standard.
 * [Pundit](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes.
 
