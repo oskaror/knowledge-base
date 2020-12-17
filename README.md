@@ -18,6 +18,7 @@
 
 ### Newsletters
 * [Ruby weekly](https://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
+* [Code with Jason](https://www.codewithjason.co/) - Jason Swett is a developer, speaker, author and host of The Rails with Jason podcast.
 
 ### Communities
 * [Ruby on Rails Link slack group](http://rubyonrails-link.slack.com) - community of Ruby on Rails developers from all over the world.
