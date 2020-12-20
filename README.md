@@ -71,6 +71,9 @@
 * [Piotr Szotkowski: PostgreSQL for Fun and Profit](https://www.youtube.com/watch?v=_xxNWyhqUZ4)
 * [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 
+### Devops
+* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)
+
 ### Others
 * [Tekin Süleyman - A Branch in Time](https://vimeo.com/280579162)
 * [RailsConf 2019 - Event Sourcing made Simple by Philippe Creux](https://www.youtube.com/watch?v=ulF6lEFvrKo)
