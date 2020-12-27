@@ -46,6 +46,7 @@
 
 * [Robert C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Robert C. Martin - Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+* [Ilya Grigorik - High Performance Browser Networking](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20681c18-6a9e-4dea-925b-f3196e502555/nse-3143984818795318668-110188.jpg)
 * [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 * [Sandi Metz - Practical Object-Oriented Design](https://www.amazon.com/gp/product/B07F88LY9M)
 * [Andrzej Krzywda - Fearless Refactoring](https://rails-refactoring.com)
