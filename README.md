@@ -8,6 +8,8 @@
 ### Podcasts 
 * [EN] [Remote Ruby](https://remoteruby.transistor.fm) - Three Rubyists having conversations and interviewing others about Ruby and web development.
 * [PL] [Better Software Design](https://bettersoftwaredesign.pl) - Podcast about programming and application architecture 
+* [PL] [Just Join IT](https://www.facebook.com/JustJoinIT/videos/)  
+* [PL] [Patoarchitekci](https://patoarchitekci.io) 
 
 ### Blogs
 * [Ruby on rails blog](https://weblog.rubyonrails.org) - The Official Rails Blog.
